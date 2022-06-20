@@ -21,7 +21,7 @@ Repository has several GIT Commits, following progress of challenge, have a desc
     
 ## Link
 
-[link to deployed APP](https://youtu.be/P4Mu1t5rIXg)
+[link to deployed APP](https://trevtal.github.io/M01-Challenge/)
 
 ## Screenshot
 
