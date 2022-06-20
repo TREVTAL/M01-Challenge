@@ -25,4 +25,4 @@ Repository has several GIT Commits, following progress of challenge, have a desc
 
 ## Screenshot
 
-[Screenshot](./ASSETS/Assets/01-html-css-git-homework-demo.png)
+![Screenshot](./ASSETS/Assets/01-html-css-git-homework-demo.png?raw=true)
