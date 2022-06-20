@@ -25,4 +25,4 @@ Repository has several GIT Commits, following progress of challenge, have a desc
 
 ## Screenshot
 
-![Screenshot](./ASSETS/Assets/01-html-css-git-homework-demo.png?raw=true)
+![Screenshot](https://github.com/TREVTAL/M01-Challenge/blob/master/ASSETS/assets/01-html-css-git-homework-demo.png?raw=true)
